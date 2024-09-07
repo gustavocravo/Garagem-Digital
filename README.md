@@ -1,4 +1,4 @@
-## **README.md - Garagem Digital** 
+## **Garagem Digital** 
 
 ### **O que é a Garagem Digital?**
 
