@@ -2,7 +2,7 @@
 
 ### **O que é a Garagem Digital?**
 
-A Garagem Digital é uma aplicação simples, mas poderosa, que te ajuda a encontrar informações sobre seus carros favoritos! ✨
+A Garagem Digital é uma aplicação simples, mas poderosa, que te ajuda a encontrar informações sobre seus carros favoritos! Criada com base nas solicitações feitas para o projeto da Imersão Dev com Google Gemini, realizada pela empresa Alura! ✨
 
 Imagine ter uma garagem virtual onde você pode pesquisar por qualquer modelo de carro e encontrar detalhes como descrição, links para mais informações e até mesmo imagens (em breve!). 
 
