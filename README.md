@@ -48,5 +48,3 @@ Este é um projeto open-source, o que significa que você pode contribuir com o 
 * **Crie seções para organizar o conteúdo.**
 * **Adicione imagens ou GIFs para ilustrar o projeto.**
 * **Use markdown para formatar o texto.**
-
-Com este README.md, você terá um guia completo e informativo para o seu projeto, facilitando a vida de quem quiser contribuir ou apenas entender como a aplicação funciona.
